@@ -1,0 +1,1 @@
+include ':app', ':ChateauCore', ':Chateau', ':Barf', ':ChateauExtras'

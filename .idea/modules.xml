@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Barf/Barf.iml" filepath="$PROJECT_DIR$/Barf/Barf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chateau/Chateau.iml" filepath="$PROJECT_DIR$/Chateau/Chateau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChateauCore/ChateauCore.iml" filepath="$PROJECT_DIR$/ChateauCore/ChateauCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChateauExtras/ChateauExtras.iml" filepath="$PROJECT_DIR$/ChateauExtras/ChateauExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sema.iml" filepath="$PROJECT_DIR$/Sema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
